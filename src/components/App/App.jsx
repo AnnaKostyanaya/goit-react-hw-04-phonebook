@@ -5,6 +5,9 @@ import ContactList from '../ContactList';
 import Filter from '../Filter';
 import style from '../App/App.module.css';
 
+
+// jjjj
+
 const LS_KEY = 'reader_contacts_data';
 class App extends Component {
   state = {
